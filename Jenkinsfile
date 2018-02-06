@@ -22,7 +22,7 @@ pipeline {
     }
     stage('link') {
       steps {
-        sh 'cmake -G '
+        sh 'cmake .'
       }
     }
     stage('compile') {
