@@ -179,10 +179,10 @@ ProcessorCount_cmd_getconf:FILEPATH=/usr/bin/getconf
 ProcessorCount_cmd_sysctl:FILEPATH=/sbin/sysctl
 
 //Value Computed by CMake
-projet_c___client_BINARY_DIR:STATIC=/home/damien/Documents/projet_c/projet_c++_client
+projet_c___client_BINARY_DIR:STATIC=/
 
 //Value Computed by CMake
-projet_c___client_SOURCE_DIR:STATIC=/home/damien/Documents/projet_c/projet_c++_client
+projet_c___client_SOURCE_DIR:STATIC=/
 
 
 ########################
