@@ -1,7 +1,6 @@
 #include <iostream>
 #include "Client.h"
 
-
   #define PORT 11999
 Client tcp;
 
